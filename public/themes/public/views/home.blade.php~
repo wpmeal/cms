@@ -12,7 +12,7 @@
                                 <ul class="dropdown-menu">
                                     <li class="">
                                         <a href="blocks">
-                                            Blocks Test
+                                            Blocks Test 1
                                         </a>
                                     </li>
                                     <li class="">
